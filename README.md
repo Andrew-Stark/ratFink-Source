@@ -15,6 +15,8 @@ Osh Park Fab Shop: https://oshpark.com/
 
 Eagle Tutorial from SparkFun: https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle
 
+Quadstepper from SparkFun: https://www.sparkfun.com/products/retired/10507
+
 UNO Robotics: http://www.uno.edu/student-involvement-leadership/orgs/robotics-club.aspx
 
 GoFundMe: https://www.gofundme.com/unorobotics
